@@ -36,7 +36,8 @@ const PersonalData: React.FC<PersonalDataProps> = ({ expand }) => (
       <Typography variant="body1" color="textSecondary">
         Localização: Belém - PA<br/>
         Email: yorrancarvalho18@gmail.com<br/>
-        LinkedIn: <a href='https://www.linkedin.com/in/yorran-carvalho-1593512a9/'>linkedin.com/in/yorran-carvalho-1593512a9/</a>
+        LinkedIn: <a href='https://www.linkedin.com/in/yorran-carvalho-1593512a9/'>Yorran Carvalho</a><br/>
+        GitHub: <a href='https://github.com/YorranCarvalho'>Yorran Carvalho</a>
       </Typography>
     </Box>
   </Box>
